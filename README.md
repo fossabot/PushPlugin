@@ -1,4 +1,6 @@
 # Cordova Push Notifications Plugin for Android, iOS, WP8 and Amazon Fire OS
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FPushPlugin.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FPushPlugin?ref=badge_shield)
+
 
 ---
 
@@ -47,6 +49,9 @@ This plugin is for use with [Cordova](http://cordova.apache.org/), and allows yo
 
 
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FPushPlugin.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FPushPlugin?ref=badge_large)
 
 ##<a name="manual_installation"></a>Manual Installation
 
